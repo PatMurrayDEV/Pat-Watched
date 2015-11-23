@@ -1,5 +1,5 @@
 # Pat Watched Tumblog Theme
-Theme to create a Tumblog identical to watched.patmurray.co
+Theme to create a Tumblog identical to [watched.patmurray.co](//watched.patmurray.co)
 
 There are some specific steps that need to be taken for the theme to work and look best.
 
