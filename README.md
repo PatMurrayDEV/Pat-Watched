@@ -32,6 +32,11 @@ The tags are, in order:
 ## About
 Inspired by [Alex Watched](http://watched.alexforey.com). Read about it on my blog: [here](http://words.patmurraydev.com/post/132992016023/pat-watched).
 
+## Gifs!
+
+![](https://media.giphy.com/media/l0O9y680D4JFiFJ9C/giphy.gif)
+
+![](http://zippy.gfycat.com/ParallelDenseDarwinsfox.gif)
 
 
 
