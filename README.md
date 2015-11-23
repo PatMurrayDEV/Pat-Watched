@@ -34,7 +34,9 @@ Inspired by [Alex Watched](http://watched.alexforey.com). Read about it on my bl
 
 ## Gifs!
 
-![](https://media.giphy.com/media/l0O9y680D4JFiFJ9C/giphy.gif)
+
+
+[Giphy Whole Page Scrolling](http://giphy.com/gifs/l0O9y680D4JFiFJ9C)
 
 ![](http://zippy.gfycat.com/ParallelDenseDarwinsfox.gif)
 
