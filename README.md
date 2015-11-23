@@ -1,5 +1,5 @@
 # Pat Watched Tumblog Theme
-Theme to create a Tumblog identical to [watched.patmurray.co](//watched.patmurray.co)
+Theme to create a Tumblog identical to [watched.patmurray.co](http://watched.patmurray.co)
 
 There are some specific steps that need to be taken for the theme to work and look best.
 
@@ -11,7 +11,7 @@ There are some specific steps that need to be taken for the theme to work and lo
 
 
 ## Posting a New Movie
-1. **Find poster art online**. I tend to use [theMovieDB](//themoviedb.org) as they have the best selection of high quality posters that lack superfluous text.
+1. **Find poster art online**. I tend to use [theMovieDB](http://themoviedb.org) as they have the best selection of high quality posters that lack superfluous text.
 2. **Start a new Photo post in Tumblr**. Make sure it’s a photo post. You can then paste in the URL of the poster found in step 1. (If you downloaded the image, now is the time to upload it).
 3. **Type in tags**. For the start rating and the hover effect the post needs to be correctly tagged. **This is very important**.  
 The tags are, in order:  
@@ -30,7 +30,7 @@ The tags are, in order:
 (There is no way of having a current year banner at the top of the page, though a permanent one could be put in the theme pretty easily. I just don’t want the for my site).
 
 ## About
-Inspired by [Alex Watched](//watched.alexforey.com). Read about it on my blog: [here](http://words.patmurraydev.com/post/132992016023/pat-watched).
+Inspired by [Alex Watched](http://watched.alexforey.com). Read about it on my blog: [here](http://words.patmurraydev.com/post/132992016023/pat-watched).
 
 
 
